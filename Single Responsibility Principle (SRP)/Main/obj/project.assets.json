@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\solid principle\\Single Responsibility Principle (SRP)\\Main\\Main.csproj",
+      "projectUniqueName": "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\SOLID-principles\\Single Responsibility Principle (SRP)\\Main\\Main.csproj",
       "projectName": "Main",
-      "projectPath": "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\solid principle\\Single Responsibility Principle (SRP)\\Main\\Main.csproj",
+      "projectPath": "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\SOLID-principles\\Single Responsibility Principle (SRP)\\Main\\Main.csproj",
       "packagesPath": "C:\\Users\\Chamath\\.nuget\\packages\\",
-      "outputPath": "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\solid principle\\Single Responsibility Principle (SRP)\\Main\\obj\\",
+      "outputPath": "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\SOLID-principles\\Single Responsibility Principle (SRP)\\Main\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -59,8 +59,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\solid principle\\Single Responsibility Principle (SRP)\\SRPLib\\SRPLib.csproj": {
-              "projectPath": "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\solid principle\\Single Responsibility Principle (SRP)\\SRPLib\\SRPLib.csproj"
+            "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\SOLID-principles\\Single Responsibility Principle (SRP)\\SRPLib\\SRPLib.csproj": {
+              "projectPath": "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\SOLID-principles\\Single Responsibility Principle (SRP)\\SRPLib\\SRPLib.csproj"
             }
           }
         }
