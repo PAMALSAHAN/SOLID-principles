@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\solid principle\\Single Responsibility Principle (SRP)\\SRPLib\\SRPLib.csproj",
+      "projectUniqueName": "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\SOLID-principles\\Single Responsibility Principle (SRP)\\SRPLib\\SRPLib.csproj",
       "projectName": "SRPLib",
-      "projectPath": "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\solid principle\\Single Responsibility Principle (SRP)\\SRPLib\\SRPLib.csproj",
+      "projectPath": "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\SOLID-principles\\Single Responsibility Principle (SRP)\\SRPLib\\SRPLib.csproj",
       "packagesPath": "C:\\Users\\Chamath\\.nuget\\packages\\",
-      "outputPath": "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\solid principle\\Single Responsibility Principle (SRP)\\SRPLib\\obj\\",
+      "outputPath": "F:\\pamal\\pamal\\udemy\\.netDesignPatterns\\work\\SOLID-principles\\Single Responsibility Principle (SRP)\\SRPLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

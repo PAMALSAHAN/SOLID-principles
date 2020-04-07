@@ -6,3 +6,11 @@ F:\pamal\pamal\udemy\.netDesignPatterns\work\solid principle\Single Responsibili
 F:\pamal\pamal\udemy\.netDesignPatterns\work\solid principle\Single Responsibility Principle (SRP)\SRPLib\obj\Debug\netstandard2.0\SRPLib.AssemblyInfo.cs
 F:\pamal\pamal\udemy\.netDesignPatterns\work\solid principle\Single Responsibility Principle (SRP)\SRPLib\obj\Debug\netstandard2.0\SRPLib.dll
 F:\pamal\pamal\udemy\.netDesignPatterns\work\solid principle\Single Responsibility Principle (SRP)\SRPLib\obj\Debug\netstandard2.0\SRPLib.pdb
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Single Responsibility Principle (SRP)\SRPLib\bin\Debug\netstandard2.0\SRPLib.deps.json
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Single Responsibility Principle (SRP)\SRPLib\bin\Debug\netstandard2.0\SRPLib.dll
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Single Responsibility Principle (SRP)\SRPLib\bin\Debug\netstandard2.0\SRPLib.pdb
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Single Responsibility Principle (SRP)\SRPLib\obj\Debug\netstandard2.0\SRPLib.csprojAssemblyReference.cache
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Single Responsibility Principle (SRP)\SRPLib\obj\Debug\netstandard2.0\SRPLib.AssemblyInfoInputs.cache
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Single Responsibility Principle (SRP)\SRPLib\obj\Debug\netstandard2.0\SRPLib.AssemblyInfo.cs
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Single Responsibility Principle (SRP)\SRPLib\obj\Debug\netstandard2.0\SRPLib.dll
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Single Responsibility Principle (SRP)\SRPLib\obj\Debug\netstandard2.0\SRPLib.pdb
