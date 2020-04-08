@@ -21,5 +21,19 @@ DNT
     *meke virtual kiyala ganne override karanna puluwan wenne ethakota static ekedi meka use karanna baha.
         hugak welawata onema function ekak non-virtual ewa.
 -----------------------------------------------------------------------------------------------------------
+TIM
+    *basic eka thamai Person class ekak hadala tinawa Employee class ekak hadala tinawa.Person kenek Employee
+        kenek karanne account eke tina create function eken.
+    
+    *aluthen ekatuwena eka thamai eya manager , stuff da kiyana ewwa 
 
-        
+    *apita enum ekaka manager,stuff,executive eva liyala Employee eke isManager isStuff isExecutive liyala 
+        eka false kiyala liyala tinawa. account eka hadana kota e Employee ge is eka true karanawanawa.
+            mekata karanakota ocp vialate wenawa
+
+    *mekedi karanne Person,account ekei interface hada ganna eka.ekata hetuwa thama dan manager account 
+        ekak hadanna one kiyala kiyamu ekata karanna one manager kiyala class ekak hadaganna ita passe manager 
+        account ekak hadaganna.   
+    
+    *mekedi karanna tinne aluthen add wena ewwa tinawane ewa nikan interface widihata ganna one.
+        if else if kiyala ene ewa me principle eka use karala issella code ekata haniyak nowenna hadanna puluman
