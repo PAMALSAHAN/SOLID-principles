@@ -1,0 +1,8 @@
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\DNTLib\bin\Debug\netstandard2.0\DNTLib.deps.json
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\DNTLib\bin\Debug\netstandard2.0\DNTLib.dll
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\DNTLib\bin\Debug\netstandard2.0\DNTLib.pdb
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\DNTLib\obj\Debug\netstandard2.0\DNTLib.csprojAssemblyReference.cache
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\DNTLib\obj\Debug\netstandard2.0\DNTLib.AssemblyInfoInputs.cache
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\DNTLib\obj\Debug\netstandard2.0\DNTLib.AssemblyInfo.cs
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\DNTLib\obj\Debug\netstandard2.0\DNTLib.dll
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\DNTLib\obj\Debug\netstandard2.0\DNTLib.pdb

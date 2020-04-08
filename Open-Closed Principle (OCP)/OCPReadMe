@@ -1,0 +1,25 @@
+this is 
+    Open for extension and close for modification
+
+    Open for extension- mekedi kiyanne aluthen class functions easily add karaganna puluwan wenna One 
+    close for modification- class/module eka edit karanne naha bugs hoyagannakan
+
+    meke saralawa kiyanne modification karanawanaw eka karanna puluwan wenna one but tina ewwa 
+    edit karanna bari wenna one.eka thama meke principle eka.
+--------------------------------------------------------------------------------------------------------
+DNT
+    *enum 
+        meka use karanne c# wala constant tiyaganna.
+
+    *main with all eke tinne without using ocp meke wenne apita thawa invoice ekak add karanna one unama 
+        invoice class eka edit karanna one ethakata ai e class eka debug karanna one.ocp kiyanne edit 
+        karanne debug ekak awoth witharai eka hinda class eka edit karanna baha.
+
+    *solution ekak widihata karanne aluthen ena functions new class ekaka dana eka ethakota e class eka 
+        vitharai edit karanna one wenne.
+    
+    *meke virtual kiyala ganne override karanna puluwan wenne ethakota static ekedi meka use karanna baha.
+        hugak welawata onema function ekak non-virtual ewa.
+-----------------------------------------------------------------------------------------------------------
+
+        

@@ -1,0 +1,16 @@
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\bin\Debug\netcoreapp3.1\Main.exe
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\bin\Debug\netcoreapp3.1\Main.deps.json
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.json
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.dev.json
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\bin\Debug\netcoreapp3.1\Main.dll
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\bin\Debug\netcoreapp3.1\Main.pdb
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\bin\Debug\netcoreapp3.1\DNTLib.dll
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\bin\Debug\netcoreapp3.1\TimLib.dll
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\bin\Debug\netcoreapp3.1\DNTLib.pdb
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\bin\Debug\netcoreapp3.1\TimLib.pdb
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\obj\Debug\netcoreapp3.1\Main.csprojAssemblyReference.cache
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfoInputs.cache
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfo.cs
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\obj\Debug\netcoreapp3.1\Main.csproj.CopyComplete
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\obj\Debug\netcoreapp3.1\Main.dll
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\Main\obj\Debug\netcoreapp3.1\Main.pdb

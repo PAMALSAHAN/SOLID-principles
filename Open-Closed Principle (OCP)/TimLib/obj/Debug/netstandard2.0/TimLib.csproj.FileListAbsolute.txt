@@ -1,0 +1,8 @@
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\TimLib\bin\Debug\netstandard2.0\TimLib.deps.json
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\TimLib\bin\Debug\netstandard2.0\TimLib.dll
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\TimLib\bin\Debug\netstandard2.0\TimLib.pdb
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\TimLib\obj\Debug\netstandard2.0\TimLib.csprojAssemblyReference.cache
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\TimLib\obj\Debug\netstandard2.0\TimLib.AssemblyInfoInputs.cache
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\TimLib\obj\Debug\netstandard2.0\TimLib.AssemblyInfo.cs
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\TimLib\obj\Debug\netstandard2.0\TimLib.dll
+F:\pamal\pamal\udemy\.netDesignPatterns\work\SOLID-principles\Open-Closed Principle (OCP)\TimLib\obj\Debug\netstandard2.0\TimLib.pdb
