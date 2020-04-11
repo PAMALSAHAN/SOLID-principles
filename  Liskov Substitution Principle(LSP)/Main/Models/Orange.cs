@@ -2,7 +2,7 @@ using System;
 
 namespace Main.Models
 {
-    public class Orange : IFruit
+    public class Orange : Fruits
     {
         public override void GetColor()
         {

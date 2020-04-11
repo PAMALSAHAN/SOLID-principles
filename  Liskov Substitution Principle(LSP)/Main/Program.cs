@@ -8,7 +8,7 @@ namespace Main
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            IFruit apple=new Orange();
+            Fruits apple=new Orange();
             apple.GetColor();
             apple=new Apple();
             apple.GetColor();
