@@ -12,7 +12,8 @@ namespace LSPlib
             Manager=manager;
         }
 
-        public virtual decimal CalculatePerHourRate(int rank){
+        public virtual void CalculatePerHourRate(int rank){
+
             decimal baseAmount=23.34M;
             Salary=baseAmount+(rank *2);
 

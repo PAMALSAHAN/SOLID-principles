@@ -2,3 +2,27 @@ meke hadanawa base class ekak eka abstract class ekak.
 interface ekak name.meka abstract karanna bari hethuwa thamai interface ekaka virtual static abstract sealed
 kiyana ewa use karanna baha. eka nisa api use karanne abstract class eka.
 ----------------------------------------------------------------------------------------------------
+OCP eke une api base ekak hadanawa eka interface karanawa.habai eke tina okkama method use wenawa 
+method body eka thama wenas wenne.namuth interface ekak haduwama eke hama method ekak ma hadanna one.
+api hitamu eka class ekata eka method ekak one naha kiyala ethakata karanne interfaces dekakata hari 
+keeyakata hari kadagena inherit karana eka.
+    antih eka thama interface walin object hadanna baha eka nisa abstract class ekak one wenawa.
+
+    Employee kiyanne base class ekanam 
+    Employee emp =new tempEmp();
+    Employee emp =new permEmp();
+
+    me hama instance ekakma inherit wena hama ekakma wada karanna one.compiler error ekak nathiwa.
+
+    Employee kiyana eka thama inherit wenna one eka.eka thama base class eka wenna one.eka hinda eken interface 
+    ekak hadaganna one. habai eke interface eka hada ganna one anith ewath ekka gala pena ewwa witharai galapenne 
+    nathi ewwa wenama interface ekakata daganna eka thama karanne.
+
+    *IEmployee ekak hadanawa.habai Employee eka base case eka kiyala ganna baha mokada eken ceo inherit karanna
+        bari hinda.eka hinda IEmployee eka kotas dekakata kadala danawa.IEmployee eke tinne basic teka wetharai
+        ekata hariyana class ekak hadagannawa eka thamai BaseEmployee kiyanne.BaseEmployee eka inherit karanawa 
+        Employee eka.BaseEmployee eka abstract karanawa mokada eken api object hadanne naha.
+    
+    *IManager kiyanne Manager eke awashya eka hadala dana interface ekak.
+    
+    *interface wala hadana method inherit kara gaththoth aniwa ewye method body liyanna one.
