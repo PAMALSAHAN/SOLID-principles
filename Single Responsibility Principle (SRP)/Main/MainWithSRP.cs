@@ -17,13 +17,6 @@ namespace Main
             Person selectedPerson=Information.fillingInformation(validatePerson); //Information class
 
             Showing.showingData(selectedPerson);
-
-
-           
-            
-                
-            
-
            
         }
     }

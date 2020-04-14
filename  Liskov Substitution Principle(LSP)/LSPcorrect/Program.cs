@@ -1,5 +1,7 @@
 ﻿using System;
 using LSPcorrect.model;
+using LSPlib;
+
 namespace LSPcorrect
 {
     class Program
@@ -26,7 +28,7 @@ namespace LSPcorrect
             // manager.LastName="sahan";
             // manager.CalculatePerHourRate(4);
 
-            BaseEmployee employee=new Manager();
+            BaseEmployee employee=new CEO();
             employee.FirstName="pamal";
             employee.LastName="sahan";
             employee.CalculatePerHourRate(4);

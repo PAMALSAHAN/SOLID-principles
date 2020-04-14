@@ -1,0 +1,13 @@
+meke interfaces wala wada thama tinne.SRP wage thamai eka interface ekaka tinna puluwan eka method ekai.
+mokada interface eke tinawanam methods hugak e method okkoma implement karanna wenawa eka hinda interface
+eka eka method walata kadagannawa.eka thama meke wenne.
+------------------------------------------------------------------------------------------
+model kiyana eke ISP violate wela mokada class ekata nati ewath implement karanna wela
+mokada interface ekak inherit karana nisa.me violate eka nati karaganna one hinda 
+api kotas dekakata kadanawa.
+------------------------------------------------------------------------------------------
+model correct eke tina interface 3k tinawa IPrinter,IPrinterDuplex,IPrnterFax
+laser printer oi thunama inherit karanawa eka hinda me IPrinter,IPrinterDuplex,IPrnterFax
+thunama IPrnterFull ekata inherit karala eka danawa laser printer ekata 
+    meka karanne IPrnterFull p=new IPrnterFull(); kiyala ethakota hadaganna puluwan hinda
+------------------------------------------------------------------------------------------

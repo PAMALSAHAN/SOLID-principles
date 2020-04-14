@@ -5,3 +5,5 @@ meken kiyanne mekai hitanna api xml kiyala class ekak haduma kiyala eke tina fun
     3log   etc  kiyala 
 api karanna one ewata venawenama class hadaganna eka.update karana class eke validate karanna
 tiyenna baha.eka thama wenna one.eka parakata ekai change karanna puluwan.
+
+!Regex.IsMatch(person["sname"],@"^[a-zA-Z]+$" -stiring that contain only letters
