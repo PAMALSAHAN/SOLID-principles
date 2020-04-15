@@ -1,7 +1,7 @@
-namespace main.model
+namespace mainCorrect.model
 {
-
-    public class Person :IPerson
+   
+    public class Person : IPerson
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }

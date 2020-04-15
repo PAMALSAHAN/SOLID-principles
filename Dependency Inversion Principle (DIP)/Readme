@@ -1,2 +1,23 @@
 mekedi highlevel ewwa low level ekka losely coupling wenna one.e kiyanne highlevel eka low level eka 
 matha depend wenna baha.habai me dekama abstraction eka matha depend wenna one.
+    meka chore kiyana eka low level emokada eka logger,emailer eka matha depend wenawa
+    eka hinda api interfaces hadaganna one.
+
+    Iperson p=new person() - meka dependancy new tinawanaw low level coupling ekak tinawa.eka hinda eka 
+    kadanna one.
+
+    enisa api karanne new person(); kiyana eka wenawa class ekaka hadala eke method widihata 
+    use karana eka.meke anith karana eka thamai class ekak athule new kiyala ekak tinawa nam ewath 
+    ain karanna one.main console eke tina new kali halanna one.class eke tina new kali halannath one.
+------------------------------------------------------------------------------------------------------------------
+    *class foctory ekak hadala object hadana eka class eke method ekak karanna one.class eka static wenna one
+        #static keyword eka class keyword ekata issella enna one.
+        #static class eken instances hadanna baha.
+-----------------------------------------------------------------------------------------------------------------
+    *chore eka athule hadala tinawane object eka hinda karanna one ewath dependancy eka adu karana eka.
+        new kali ain karana eka class eken.
+        ekata karanna one ctor ekak hadala ekata factory eken instances hadana ewwa parameter ekak widihata
+        insert karana eka.
+----------------------------------------------------------------------------------------------------------------
+    * api hithamu apita one kiyala text message yawanna email yawanawata wada.dependancy ekak nati hinda 
+        apita puluwan texter ekak araganna.
