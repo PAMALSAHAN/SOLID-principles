@@ -1,0 +1,2 @@
+*unti container eka install karana eka
+    dotnet add package Unity.Mvc5 --version 1.4.0
